@@ -2,7 +2,7 @@ import { Github, Linkedin, MessageCircle } from "lucide-react";
 import type { LucideIcon } from "lucide-react";
 import { SITE_CONFIG } from "@/constants/site";
 import { cn } from "@/lib/utils";
-
+//replace missing WhatsApp icon with MessageCircle
 interface SocialLinksProps {
   className?: string;
 }
