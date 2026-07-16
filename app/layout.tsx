@@ -23,7 +23,7 @@ export const metadata: Metadata = {
   description: SITE_CONFIG.description,
   keywords: [...SITE_CONFIG.keywords],
   authors: [{ name: SITE_CONFIG.author.name, url: SITE_CONFIG.url }],
-  creator: SITE_CONFIG.author.name,
+  // creator: SITE_CONFIG.author.name,
   robots: {
     index: true,
     follow: true,

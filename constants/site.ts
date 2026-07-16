@@ -17,6 +17,7 @@ export const SITE_CONFIG = {
   name: "Mariem Ben Chikha",
   email: "meryembenchikha1@gmail.com",
   phone: "+216  99785583",
+  twitter: "@tonPseudoTwitter",
   
   },
   socials: {
