@@ -17,13 +17,12 @@ export const SITE_CONFIG = {
   name: "Mariem Ben Chikha",
   email: "meryembenchikha1@gmail.com",
   phone: "+216  99785583",
-  twitter: "@tonPseudoTwitter",
   
   },
   socials: {
-    github: "https://github.com/yourusername",
-    linkedin: "https://linkedin.com/in/yourusername",
-    whatsapp: "https://wa.me/yourphonenumber",
+    github: "https://github.com/meryembenchikha",
+    linkedin: "https://www.linkedin.com/in/mariembenchikha",
+    whatsapp: "https://wa.me/99785583",
   },
 } as const;
 
